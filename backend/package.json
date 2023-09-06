@@ -5,8 +5,7 @@
   "main": "index.js",
   "scripts": {
     "dev": "nodemon index",
-    "start": "node index",
-    "test": "echo \"Error: Deployment Testing Failed \" && exit 1"
+    "start": "node index"
   },
   "keywords": [],
   "author": "",
