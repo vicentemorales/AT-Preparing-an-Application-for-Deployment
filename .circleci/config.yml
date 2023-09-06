@@ -11,7 +11,7 @@ workflows:
           app-dir: ~/project/backend
           context: aws-creds
           application-name: Atbean
-          environment-name: Atbean-env
+          environment-name: atbean-env
           filters:
             branches:
               only:
