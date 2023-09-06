@@ -10,7 +10,7 @@ workflows:
       - eb/deploy:
           app-dir: ~/project/backend
           context: aws-creds
-          application-name: Project
+          application-name: Atbean
           environment-name: Atbean-env
           filters:
             branches:
